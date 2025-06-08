@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: Georgia, 'Times New Roman', Times, serif !important; */
+    /* font-weight: 600; */
+    
+}
+.containernav{
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-align: center;
+    
+}
+
+.BANNRT{
+    padding-top: 50px;
+    
+}
+.carousel-item{
+    height: 80vh;
+    min-height: 300px;
+}
+.Container{
+    /* border: 2px solid red; */
+    text-align: center;
+    /* margin-top: 10px; */
+    background-color: antiquewhite;
+}
+.Container img{
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    /* padding-top: 10px; */
+}
+
+
+.container2 img{
+    height: 50vh;
+    padding: 20px 20px;
+    border-radius: 5px !important;
+
+}
+.container{
+    
+    margin-top: 10px;
+    text-align: center;
+    /* justify-content: center; */
+    padding-top: 1opx;
+    background-color: beige;
+}
+.container1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.container2{
+    border: 2px solid bisque;
+    overflow: hidden;
+    height: auto;
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+
+.about-text{
+    text-align: center;
+}
+.container3{
+    /* border: 2px solid green; */
+    /* width: 300px; */
+    /* margin-left: 50px; */
+    margin-top: 100px;
+    overflow: hidden;
+    /* position: relative; */
+    margin-top: 20px;
+    background-color: rgb(152, 199, 240);
+    /* box-shadow: 10px 20px 10px red; */
+    padding-left: 20px;
+}
+.container3 img{
+    overflow: hidden;
+    width: 100% ;
+    /* object-fit: cover; */
+    border-radius: 5px !important;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.card-text{
+    margin: 20px;
+    text-align: center;
+}
+.card{
+    box-shadow: 10px 20px 10px gray;
+}
+.container3{
+    padding-bottom: 20px;
+    padding-top: 20px ;
+    transition: box-shadow 0.3s ease-in-out;
+    
+}
+container3:hover{
+    box-shadow: 10px 20px 10px gray;
+}
+
+.container4{
+    margin-right: 20px;
+    overflow: hidden;
+    /* border: 2px solid red; */
+    background-color: antiquewhite;
+    margin-top: 50px;
+}
+.text{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container5{
+    overflow: hidden;
+    /* border: 2px solid red; */
+    width: 700px;
+    /* height: 100vh; */
+    border-radius: 5%;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 350px;
+    background-color: antiquewhite;
+    padding-bottom: 30px;
+}
+.container6{
+    margin-top: 50px;
+}
+.container4{
+    background-color: aliceblue !important;
+    padding-left: 50px;
+    border-radius: 10%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.form-text{
+    margin-top: 30px !important;
+    text-align: center;
+}
